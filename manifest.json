@@ -1,0 +1,12 @@
+{
+  "id": "community.glorioso.addon",
+  "version": "1.0.0",
+  "name": "GloriosoTV Addon",
+  "description": "Addon para acessar a lista GloriosoTV via proxy.",
+  "types": ["tv"],
+  "resources": ["stream"],
+  "idPrefixes": ["gloriosotv"],
+  "catalogs": [],
+  "background": "https://i.imgur.com/qQtsoS7.jpg",
+  "logo": "https://i.imgur.com/B8eDvph.png"
+}

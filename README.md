@@ -1,3 +1,3 @@
-## Hi there 👋
+## Glorioso Tv 👋
 
-[Install](https://raw.githubusercontent.com/gloriosotv/gloriosotv/refs/heads/main/manifest.json)
+[Install](stremio://gloriosotv.github.io/gloriosotv/manifest.json)
